@@ -1,0 +1,5 @@
+/Users/tushartuteja/AndroidStudioProjects/Firstapp/app/build/intermediates/classes/debug
+/Users/tushartuteja/AndroidStudioProjects/Firstapp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-4967aeaa11393a586492d5920f62072375ba6575.jar
+/Users/tushartuteja/AndroidStudioProjects/Firstapp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b7eba9dd6638cdc4c9bb3cf1c15f266a2082e50e.jar
+/Users/tushartuteja/AndroidStudioProjects/Firstapp/app/build/intermediates/pre-dexed/debug/classes-368aecdfd240bd999ea965ef8673512b87226dde.jar
+/Users/tushartuteja/AndroidStudioProjects/Firstapp/app/build/intermediates/pre-dexed/debug/classes-bbbfa1675f47ba7a1ec9e5b7275241cbe4620c30.jar
